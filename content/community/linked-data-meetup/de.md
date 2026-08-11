@@ -1,6 +1,6 @@
 ## Linked Data Meetup
 
-An Linked Data interessierte Personen können sich regelmässig bei *Linked Data Meetups* treffen, um sich über Projekte zur Implementierung von Linked Data auszutauschen. Hybride Kurzpräsentationen und ein informeller Apéro bieten die Gelegenheit, über aktuelle Fragen zu Linked Data zu diskutieren. Das Linked Data Meetup ist eine Zusammenarbeit des BAR mit der [Berner Fachhochschule](https://www.bfh.ch/de/themen/linked-data-meetup/).
+An Linked Data interessierte Personen können sich regelmässig bei *Linked Data Meetups* treffen, um sich über Projekte zur Implementierung von Linked Data auszutauschen. Hybride Kurzpräsentationen und ein informeller Apéro bieten die Gelegenheit, über aktuelle Fragen zu Linked Data zu diskutieren. Das Linked Data Meetup ist eine Zusammenarbeit des BAR mit der [Berner Fachhochschule](https://www.bfh.ch/de/themen/linked-data/).
 
 ### Kommende Meetups
 

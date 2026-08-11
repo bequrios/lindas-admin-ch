@@ -1,6 +1,6 @@
 ## Linked Data Meetup
 
-As follow-up to the first Linked Data Day, interested parties can meet regularly at "Linked Data Meetups" to discuss Linked Data implementation projects. Brief hybrid presentations and an informal drinks reception will provide an opportunity to discuss current issues related to Linked Data. The Linked Data Meetup is a collaboration between the SFA and the [Bern University of Applied Sciences](https://www.bfh.ch/de/themen/linked-data-meetup/).
+As follow-up to the first Linked Data Day, interested parties can meet regularly at "Linked Data Meetups" to discuss Linked Data implementation projects. Brief hybrid presentations and an informal drinks reception will provide an opportunity to discuss current issues related to Linked Data. The Linked Data Meetup is a collaboration between the SFA and the [Bern University of Applied Sciences](https://www.bfh.ch/de/themen/linked-data/).
 
 ### Upcoming Meetups
 

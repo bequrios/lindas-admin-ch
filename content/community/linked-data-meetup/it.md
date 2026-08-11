@@ -1,6 +1,6 @@
 ## Meetup Linked Data
 
-Come seguito al primo Linked Data Day, gli utenti si possono incontrare regolarmente in occasione dei "Meetup Linked Data" per discutere dei progetti di implementazione dei Linked Data. Brevi presentazioni ibride e un aperitivo informale serviranno da cornice per discutere di aspetti di attualità riguardanti i Linked Data. Il Meetup Linked Data è organizzato dall’AFS e dalla [Scuola universitaria professionale di Berna](https://www.bfh.ch/de/themen/linked-data-meetup/).
+Come seguito al primo Linked Data Day, gli utenti si possono incontrare regolarmente in occasione dei "Meetup Linked Data" per discutere dei progetti di implementazione dei Linked Data. Brevi presentazioni ibride e un aperitivo informale serviranno da cornice per discutere di aspetti di attualità riguardanti i Linked Data. Il Meetup Linked Data è organizzato dall’AFS e dalla [Scuola universitaria professionale di Berna](https://www.bfh.ch/de/themen/linked-data/).
 
 ### Prossimi Meetups
 
